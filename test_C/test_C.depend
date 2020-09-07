@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1589005129 source:e:\codeblock_work\test_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583679717 source:e:\codeblock_work\test_c\array.c
+	"array.h"
+
+1583679717 e:\codeblock_work\test_c\array.h
+	"common.h"
+
+1583679717 e:\codeblock_work\test_c\common.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+
+1583679717 source:e:\codeblock_work\test_c\common.c
+	"common.h"
+
+1583679717 source:e:\codeblock_work\test_c\deque.c
+	"deque.h"
+
+1583679717 e:\codeblock_work\test_c\deque.h
+	"common.h"
+
+1583679717 source:e:\codeblock_work\test_c\hashset.c
+	"hashset.h"
+
+1583679717 e:\codeblock_work\test_c\hashset.h
+	"common.h"
+	"hashtable.h"
+
+1583679717 e:\codeblock_work\test_c\hashtable.h
+	"array.h"
+	"common.h"
+
+1583679717 source:e:\codeblock_work\test_c\hashtable.c
+	"hashtable.h"
+
+1583679717 source:e:\codeblock_work\test_c\list.c
+	"list.h"
+
+1583679717 e:\codeblock_work\test_c\list.h
+	"common.h"
+
+1583679717 source:e:\codeblock_work\test_c\pqueue.c
+	"pqueue.h"
+
+1583679717 e:\codeblock_work\test_c\pqueue.h
+	"common.h"
+	"array.h"
+
+1583679717 source:e:\codeblock_work\test_c\queue.c
+	"queue.h"
+
+1583679717 e:\codeblock_work\test_c\queue.h
+	"common.h"
+	"deque.h"
+
+1583679717 source:e:\codeblock_work\test_c\slist.c
+	"slist.h"
+
+1583679717 e:\codeblock_work\test_c\slist.h
+	"common.h"
+
+1583679717 source:e:\codeblock_work\test_c\stack.c
+	"array.h"
+	"stack.h"
+
+1583679717 e:\codeblock_work\test_c\stack.h
+	"common.h"
+	"array.h"
+
+1583679717 source:e:\codeblock_work\test_c\treeset.c
+	"treeset.h"
+
+1583679717 e:\codeblock_work\test_c\treeset.h
+	"common.h"
+	"treetable.h"
+
+1583679717 e:\codeblock_work\test_c\treetable.h
+	"common.h"
+
+1583679717 source:e:\codeblock_work\test_c\treetable.c
+	"treetable.h"
+
+1589005437 source:e:\codeblock_work\test_c\test.c
+	<stdio.h>
+	<stdlib.h>
+	"hashtable.h"
+	"array.h"
+	"list.h"
+
